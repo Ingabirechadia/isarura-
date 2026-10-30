@@ -6,8 +6,8 @@ NISR 2026 Big Data Hackathon · Track 1: Agricultural Productivity
 Team: Jean De La Croix Niyonkuru and Chadia Ingabire, University of Rwanda
 
 - **Live app:** https://isarura.streamlit.app/
-- **Backup:** not deployed yet
-- **Demo video (under 3 min):** not recorded yet
+- **Demo Video:** https://drive.google.com/file/d/1ULItxu1M48cKSPklcR2LaRvEaIeUCA2b/view?usp=sharing
+
 
 ---
 
@@ -62,7 +62,7 @@ Every number is labelled **Official (NISR published)**, **Calculated by Isarura*
 | CPI, January 2025 and September 2026 reports | NISR | Rural food index, used to roll prices forward |
 | *The composition of foods commonly eaten in East Africa* (West, Pepping & Temalilwa, 1988), via FAO (2001) | FAO / WUR | kcal per kg, net of inedible waste |
 | PSTA 5 (MINAGRI, 2024) | MINAGRI | Policy targets and the 13.8% baseline |
-| District boundaries | Source to be confirmed | Map |
+| District boundaries | geoBoundaries (ADM2) | Map |
 
 Full details: `docs/data_sources.md`.
 
@@ -127,3 +127,4 @@ No farm-level or household-level data is in this repository or the app; only agg
 - NISR microdata catalog (SAS 2024, SAS 2025, EICV7): https://microdata.statistics.gov.rw/index.php/catalog/113, /124, /119
 - MINAGRI, PSTA 5 abridged version: https://www.minagri.gov.rw/fileadmin/user_upload/Minagri/Publications/Policies_and_strategies/PSTA_5_Abridged_version_Final.pdf
 - FAO (2001), *Improving Nutrition through Home Gardening*, Appendix 2: https://www.fao.org/4/x3996e/x3996e44.htm
+- geoBoundaries, Rwanda ADM2 district boundaries: https://www.geoboundaries.org/
